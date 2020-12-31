@@ -1,1 +1,2 @@
 This is version 1 of my first git.
+Added second line to check the version control.
